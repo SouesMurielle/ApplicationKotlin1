@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Projet2</string>
+    <string name="ma_chaine">Hello</string>
+</resources>
